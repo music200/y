@@ -10,7 +10,7 @@
       "bain1": "bbbbbbbb",
       "bain2": "bbbbbbbb",
       "stor": "https://m.me/101029158066794",
-      "imageurl":"jpg",
+      "imageurl":"https://i1.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg?fit=640%2C361&ssl=1",
       "FAban": "",
       "FAint": "",
       "isadsFG": ""
@@ -120,6 +120,7 @@
 "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-النور-الجيلاني/القطار المرعود.mp3"
  },
     {
+ "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
 "name":"النيل عليك يا جميل",
 "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-النور-الجيلاني/النيل عليك يا جميل.mp3"
  },
@@ -136,6 +137,7 @@
 "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-احمد-الصادق/اخر عهدي بيهم.mp3"
  },
     {
+  "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
 "name":"اسمعينا وهدي بالك",
 "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-احمد-الصادق/اسمعينا وهدي بالك.mp3"
  },
@@ -145,7 +147,8 @@
 "name":"الجاب لي أخبارو",
 "uel":"http://douniamp3.org/music/test2/اغاني%20سودانية/اغاني-احمد-الصادق/الجاب لي أخبارو.mp3"
  },
-    {            "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
+    {          
+ "imageurl":"https://i2.wp.com/www.alnilin.com/wp-content/uploads/2016/10/%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%88%D8%B4.jpg",
 
 
 "name":"الرايقة",
