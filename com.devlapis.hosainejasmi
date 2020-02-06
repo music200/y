@@ -65,7 +65,22 @@
     }
   ],
   "media": [
-    {
+   {
+	"imageurl":"https://www.sayidaty.net/sites/default/files/styles/800x510/public/2019/08/25/5734436-1481440630.jpg",
+"name":"عيون الشوق",
+"uel":"https://ss5.sm3na.com/84/Sm3na_com_56620.mp3"
+},
+{
+"imageurl":"https://www.sayidaty.net/sites/default/files/styles/800x510/public/2019/08/25/5734436-1481440630.jpg",
+"name":"بطل الحكاية",
+"uel":"https://ss5.sm3na.com/84/Sm3na_com_56467.mp3"
+},
+{
+"imageurl":"https://www.sayidaty.net/sites/default/files/styles/800x510/public/2019/08/25/5734436-1481440630.jpg",
+"name":"تساوي الكل",
+"uel":"https://ss5.sm3na.com/84/Sm3na_com_56439.mp3"
+},
+{
 	"imageurl":"https://www.sayidaty.net/sites/default/files/styles/800x510/public/2019/08/25/5734436-1481440630.jpg",
 "name":"العاصمة",
 "uel":"https://ss5.sm3na.com/84/Sm3na_com_56142.mp3"
