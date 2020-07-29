@@ -2,7 +2,7 @@
   "euro": [
     {
       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-   "poloPRO": "7014495719192033",
+      "poloPRO": "7014495719192033",
       "nain1": "7412471765",
       "nain2": "8195355808",
       "nain3": "7516892471",
@@ -65,6 +65,16 @@
     }
   ],
   "media": [
+    {
+      "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk8z14lKTOvHqB7W0QG9IfSqGK3a1skJ5l8WIuhHV9U0ydrWeF&s",
+      "name":"جلسة خاصة",
+      "uel":"https://ss6.sm3na.com/1409/Sm3na_com_60536.mp3"
+    },
+    {
+      "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk8z14lKTOvHqB7W0QG9IfSqGK3a1skJ5l8WIuhHV9U0ydrWeF&s",
+      "name":"حبيبي منحجر مع ايمن حميد",
+      "uel":"https://ss5.sm3na.com/1409/Sm3na_com_59081.mp3"
+    },
     {
       "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk8z14lKTOvHqB7W0QG9IfSqGK3a1skJ5l8WIuhHV9U0ydrWeF&s",
       "name":"عليك عيوني",
