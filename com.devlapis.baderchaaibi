@@ -2,7 +2,7 @@
   "euro": [
     {
       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-    "poloPRO": "7014495719192033",
+      "poloPRO": "7014495719192033",
       "nain1": "3301002216",
       "nain2": "2670446826",
       "nain3": "2997749880",
@@ -67,7 +67,16 @@
   "media": [
     {
       "imageurl":"https://c-sf.smule.com/sf/s36/arr/c1/c5/b4008e62-d88b-4245-8b83-fb21eb3b63e8.jpg",
-
+      "name":"بالعربي",
+      "uel":"https://ss5.sm3na.com/1769/Sm3na_com_57348.mp3"
+    },
+    {
+      "imageurl":"https://c-sf.smule.com/sf/s36/arr/c1/c5/b4008e62-d88b-4245-8b83-fb21eb3b63e8.jpg",
+      "name":"القفص مع طارق الحربي",
+      "uel":"https://ss5.sm3na.com/1769/Sm3na_com_56965.mp3"
+    },
+    {
+      "imageurl":"https://c-sf.smule.com/sf/s36/arr/c1/c5/b4008e62-d88b-4245-8b83-fb21eb3b63e8.jpg",
       "name":"أنا وياه",
       "uel":"https://ia601505.us.archive.org/20/items/6_20191214/1.mp3"
     },
