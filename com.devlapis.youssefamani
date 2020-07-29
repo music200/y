@@ -2,7 +2,7 @@
   "euro": [
     {
       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-   "poloPRO": "7014495719192033",
+      "poloPRO": "7014495719192033",
       "nain1": "7128566584",
       "nain2": "2443695043",
       "nain3": "9754729921",
@@ -65,6 +65,76 @@
     }
   ],
   "media": [
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"مكتوب",
+      "uel":"https://ss6.sm3na.com/73/Sm3na_com_60559.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"خافوا عليها",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_59002.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"عالي علمنا",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_58038.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"عيني لغير جمالكم",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57955.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"ورا الايام",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57948.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"انتم مرادي",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57947.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"ياليالي",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57946.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"صبا نجد",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57945.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"قال محضار",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57944.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"ليش يا محبوب",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57943.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"كذابين",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57942.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"قلبي معذب",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_57158.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"تعدينه خلاص",
+      "uel":"https://ss5.sm3na.com/73/Sm3na_com_56789.mp3"
+    },
+    {
+      "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
+      "name":"فوق بالعالي",
+      "uel":"https://ss4.sm3na.com/73/Sm3na_com_54555.mp3"
+    },
     {
       "imageurl":"https://live.staticflickr.com/6040/6324504366_680e8073ef_b.jpg",
       "name":"ذاك القوي",
