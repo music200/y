@@ -67,7 +67,11 @@
   "media": [
     {
       "imageurl":"https://static.lahamag.com/attachments/104/chn_681836_original.png",
-
+      "name":"جرح كبير",
+      "uel":"https://ss5.sm3na.com/1493/Sm3na_com_58144.mp3"
+    },
+    {
+      "imageurl":"https://static.lahamag.com/attachments/104/chn_681836_original.png",
       "name":"مجنون",
       "uel":"https://ms18.sm3na.com/1493/Sm3na_com_51499.mp3"
     },
