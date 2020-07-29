@@ -2,7 +2,7 @@
   "euro": [
     {
       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-    "poloPRO": "7014495719192033",
+      "poloPRO": "7014495719192033",
       "nain1": "5309531530",
       "nain2": "5404421375",
       "nain3": "8941461263",
@@ -65,6 +65,11 @@
     }
   ],
   "media": [
+    {
+      "imageurl":"https://i1.sndcdn.com/artworks-000457208274-2aijl4-t500x500.jpg",
+      "name":"يايما ولالي",
+      "uel":"https://ss5.sm3na.com/1087/Sm3na_com_60046.mp3"
+    },
     {
       "imageurl":"https://i1.sndcdn.com/artworks-000457208274-2aijl4-t500x500.jpg",
       "name":"ماودعوني",
