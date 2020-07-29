@@ -2,7 +2,7 @@
   "euro": [
     {
       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-  "poloPRO": "7014495719192033",
+      "poloPRO": "7014495719192033",
       "nain1": "6143907534",
       "nain2": "3521807149",
       "nain3": "7456989203",
@@ -65,6 +65,31 @@
     }
   ],
   "media": [
+    {
+      "imageurl":"https://pbs.twimg.com/profile_images/968823137726091265/JvWrgUzp_400x400.jpg",
+      "name":"مابي وفه",
+      "uel":"https://ss6.sm3na.com/1624/Sm3na_com_60520.mp3"
+    },
+    {
+      "imageurl":"https://pbs.twimg.com/profile_images/968823137726091265/JvWrgUzp_400x400.jpg",
+      "name":"ابن قلبي مع مصطفى فالح",
+      "uel":"https://ss5.sm3na.com/1624/Sm3na_com_59833.mp3"
+    },
+    {
+      "imageurl":"https://pbs.twimg.com/profile_images/968823137726091265/JvWrgUzp_400x400.jpg",
+      "name":"حبيبي",
+      "uel":"https://ss5.sm3na.com/1624/Sm3na_com_58842.mp3"
+    },
+    {
+      "imageurl":"https://pbs.twimg.com/profile_images/968823137726091265/JvWrgUzp_400x400.jpg",
+      "name":"انا بفركاك",
+      "uel":"https://ss5.sm3na.com/1624/Sm3na_com_58428.mp3"
+    },
+    {
+      "imageurl":"https://pbs.twimg.com/profile_images/968823137726091265/JvWrgUzp_400x400.jpg",
+      "name":"تموتين",
+      "uel":"https://ss5.sm3na.com/1624/Sm3na_com_57604.mp3"
+    },
     {
       "imageurl":"https://pbs.twimg.com/profile_images/968823137726091265/JvWrgUzp_400x400.jpg",
       "name":"انتي وين",
