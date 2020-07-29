@@ -2,7 +2,7 @@
   "euro": [
     {
       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-"poloPRO": "7014495719192033",
+      "poloPRO": "7014495719192033",
       "nain1": "9344500534",
       "nain2": "8642912515",
       "nain3": "9955994184",
@@ -67,7 +67,26 @@
   "media": [
     {
       "imageurl":"https://i.ytimg.com/vi/37xSJLYZ5Qg/maxresdefault.jpg",
-
+      "name":"دلع دلعونا",
+      "uel":"https://ss5.sm3na.com/1357/Sm3na_com_59706.mp3"
+    },
+    {
+      "imageurl":"https://i.ytimg.com/vi/37xSJLYZ5Qg/maxresdefault.jpg",
+      "name":"تعا نقعد",
+      "uel":"https://ss5.sm3na.com/1357/Sm3na_com_59121.mp3"
+    },
+    {
+      "imageurl":"https://i.ytimg.com/vi/37xSJLYZ5Qg/maxresdefault.jpg",
+      "name":"شو هالحلاوة",
+      "uel":"https://ss5.sm3na.com/1357/Sm3na_com_57984.mp3"
+    },
+    {
+      "imageurl":"https://i.ytimg.com/vi/37xSJLYZ5Qg/maxresdefault.jpg",
+      "name":"انا دمي فلسطيني",
+      "uel":"https://ss5.sm3na.com/1357/Sm3na_com_57498.mp3"
+    },
+    {
+      "imageurl":"https://i.ytimg.com/vi/37xSJLYZ5Qg/maxresdefault.jpg",
       "name":"كرمالك انت  تتر مسلسل عروس بيروت",
       "uel":"https://ss4.sm3na.com/1357/Sm3na_com_55650.mp3"
     },
