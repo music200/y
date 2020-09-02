@@ -1,13 +1,14 @@
 {
   "euro": [
-    { "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-      "poloPRO": "xxx",
-      "nain1": "xx",
-      "nain2": "xxx",
-      "nain3": "xxx",
-      "nain4": "xxxx",
-      "bain1": "xxxx",
-      "bain2": "xxxx",
+    { 
+     "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "3940256099942544",
+      "nain1": "1033173712",
+      "nain2": "1033173712",
+      "nain3": "1033173712",
+      "nain4": "1033173712",
+      "bain1": "6300978111",
+      "bain2": "6300978111",
       "stor": "https://m.me/101029158066794",
       "imageurl":"https://melody4arab.com/images/group/El_Nour_El_Gelany.jpg",
       "FAban": "",
