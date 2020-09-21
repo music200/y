@@ -1,0 +1,23 @@
+{
+  "police": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+  "keyword": "usa,washinton",
+  "key_ADid": "xxxxx",
+  "key_ADunit": "xxxxx",
+  "keyB_AD": "xxxxx,xxxxx",
+  "keyI_AD": "xxxxx,xxxxx,xxxxx",
+  "keyB_FA": "xxxxx,xxxxx",
+  "keyI_FA": "xxxxx,xxxxx,xxxxx",
+    "key_N_FA": "xxxxx",
+
+  "key_MOid": "xxxxx",
+  "keyB_MO": "xxxxx,xxxxx",
+  "keyI_MO": "xxxxx,xxxxx,xxxxx",
+  "keyN_MO": "xxxxx",
+"key_UNid": "xxxxx",
+  "keyB_UN": "xxxxx",
+  "keyI_UN": "xxxxx",
+ 
+  "compactAds": "MO,FA,UN,AD",
+  "timerNext": "0:00:10",
+  "viersonsda": "1"
+}
